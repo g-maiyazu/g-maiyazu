@@ -19,9 +19,10 @@
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=Kotlin&logoColor=F7DF1E)
+![Kotlin](https://img.shields.io/badge/Kotlin-323330?style=flat&logo=Kotlin&logoColor=F7DF1E)
 ![Go](https://img.shields.io/badge/Go-%2357A143.svg?&style=flat&logo=Go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23575757.svg?&style=flat&logo=PHP&logoColor=important)
+![Ruby](https://img.shields.io/badge/Ruby-%23575757.svg?&style=flat&logo=Ruby&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -32,12 +33,13 @@
 // tools_I_use organized
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Java", "Kotlin", "Go lang", "PHP", "Ruby", "Solidity" },
+    "ProgramingLanguages" : { "Java", "Kotlin", "Go", "PHP", "Ruby", "Solidity" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase" },
+    "Database" : { "MongoDB", "PostgresSQL", "MySQL", "SQL Server" },
+    "Infrastructure" : { "AWS" },
     "Editors" : { "Vscode", "InteliJ IDEA" },
     "Platforms" : { "Linux", "Windows", "Mac" },
-    "OtherTools" : { "Git", "Figma" }
+    "OtherTools" : { "Git" }
   };
 }
 ```
