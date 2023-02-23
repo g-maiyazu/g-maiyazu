@@ -22,7 +22,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-323330?style=flat&logo=Kotlin&logoColor=F7DF1E)
 ![Go](https://img.shields.io/badge/Go-%2357A143.svg?&style=flat&logo=Go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23575757.svg?&style=flat&logo=PHP&logoColor=important)
-![Ruby](https://img.shields.io/badge/Ruby-%23575757.svg?&style=flat&logo=Ruby&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-%23575757.svg?&style=flat&logo=Ruby&logoColor=red)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
