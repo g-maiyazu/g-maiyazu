@@ -19,7 +19,7 @@
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-323330?style=flat&logo=Kotlin&logoColor=F7DF1E)
-![Go](https://img.shields.io/badge/Go-%2357A143.svg?&style=flat&logo=Go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2357A143.svg?&style=flat&logo=Go&logoColor=blue)
 ![PHP](https://img.shields.io/badge/PHP-%23575757.svg?&style=flat&logo=PHP&logoColor=important)
 ![Ruby](https://img.shields.io/badge/Ruby-%23575757.svg?&style=flat&logo=Ruby&logoColor=red)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
