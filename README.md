@@ -1,9 +1,9 @@
 <div align="center" width="50">
 
-<img src="https://github.com/g-maiyazu/g-maiyazu/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
+<!-- <img src="https://github.com/g-maiyazu/g-maiyazu/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br> -->
 <img src="https://github.com/g-maiyazu/g-maiyazu/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
   
-<p><strong>web developper.
+<p><strong>I'm Web developper.
 <br><br> Vibing to : 🎧  </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/edge6123) <br>
