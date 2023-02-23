@@ -7,7 +7,7 @@
 <br>my father at his shop & Coder at night.
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/edge6123) <br>
 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=g-maiyazu&style=flat&color=orange&label=PROFILE+VIEWS)
